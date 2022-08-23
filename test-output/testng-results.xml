@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T13:12:29 IST" name="Suite" finished-at="2022-08-23T13:13:11 IST" duration-ms="42842">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T13:12:29 IST" name="Test" finished-at="2022-08-23T13:12:48 IST" duration-ms="19577">
+      <class name="com.test.test_2">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.test.test_2@7d900ecf]" started-at="2022-08-23T13:12:29 IST" name="setup" finished-at="2022-08-23T13:12:42 IST" duration-ms="13837" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.test.test_2@7d900ecf]" started-at="2022-08-23T13:12:42 IST" name="test" finished-at="2022-08-23T13:12:43 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.test.test_2@7d900ecf]" started-at="2022-08-23T13:12:48 IST" name="AM" finished-at="2022-08-23T13:12:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+      </class> <!-- com.test.test_2 -->
+    </test> <!-- Test -->
+    <test started-at="2022-08-23T13:12:49 IST" name="Test1" finished-at="2022-08-23T13:13:11 IST" duration-ms="22342">
+      <class name="com.test.test_2">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.test.test_2@4d15107f]" started-at="2022-08-23T13:12:28 IST" name="BS" finished-at="2022-08-23T13:12:29 IST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.test.test_2@4d15107f]" started-at="2022-08-23T13:12:49 IST" name="setup" finished-at="2022-08-23T13:13:04 IST" duration-ms="14818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.test.test_2@4d15107f]" started-at="2022-08-23T13:13:04 IST" name="test" finished-at="2022-08-23T13:13:05 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.test.test_2@4d15107f]" started-at="2022-08-23T13:13:11 IST" name="AM" finished-at="2022-08-23T13:13:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+      </class> <!-- com.test.test_2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
